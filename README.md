@@ -1,5 +1,5 @@
 # Exercicios do URI resolvidos 💻 **C**
-### Repositório com exercícios do URI que resolvi em C no primeiro semestre do curso de Ciência da Computação.
+### Repositório com exercícios do URI que resolvi em C no segundo semestre do curso de Ciência da Computação.
 
 ###### Essa lista contém os seguintes exercícios:
 - 1006
